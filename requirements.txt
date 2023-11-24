@@ -1,0 +1,8 @@
+uvicorn
+pydantic
+fastapi
+loguru
+redis
+tortoise-orm
+aerich
+aiomysql
